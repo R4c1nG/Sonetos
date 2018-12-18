@@ -5,7 +5,7 @@
 @charset "UTF-8";
 
 html {
-    background: url("fondos/corazon-1.svg") top left repeat-y, url("fondos/corazon-2.svg") top right repeat-y;
+    background: url("/fondos/corazon-1.svg") top left repeat-y, url("/fondos/corazon-2.svg") top right repeat-y;
     background-size: 10%;
     background-color: #FFEBF0;
 }
@@ -25,22 +25,22 @@ section {
 }
 
 section.b1 {
-    background-image: url("fondos/manchas.png");
+    background-image: url("/fondos/manchas.png");
     color: white;
 }
 
 section.b2 {
-    background: url("fondos/fuego.svg") no-repeat bottom left , url("fondos/fuego.svg") no-repeat bottom right, url("fondos/tallos.jpg") repeat;
+    background: url("/fondos/fuego.svg") no-repeat bottom left , url("/fondos/fuego.svg") no-repeat bottom right, url("/fondos/tallos.jpg") repeat;
     color: #FFDD00;
 }
 
 section.b3 {
-    background: url("fondos/ojo.svg") no-repeat center center, url("fondos/hexagonos.jpg") repeat;
+    background: url("/fondos/ojo.svg") no-repeat center center, url("/fondos/hexagonos.jpg") repeat;
     color: #800000;
 }
 
 section.b4 {
-    background: url("fondos/caballo.svg") repeat-x bottom left, url("fondos/estrellas.png") repeat;
+    background: url("/fondos/caballo.svg") repeat-x bottom left, url("/fondos/estrellas.png") repeat;
     background-size: 10%;
     color: #004D06;
 }
